@@ -1,0 +1,16 @@
+[
+{
+  "modid": "obsidiancraft",
+  "name": "Obsidian Craft",
+  "description": "Obsidian Tools and Armor",
+  "version": "1.11",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["LPF"],
+  "credits": "The Forge and FML guys, for making this api",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
